@@ -1,0 +1,51 @@
+name`Bald Cape|given_name`Saitama|gender`Male|race`Human|age`25|height`1.75m|threat`N/A|occupation`Hero|city`Z|status`Alive
+name`Vaccine Man|gender`Male|race`Monster|height`2-18m|threat`Dragon|city`A|status`Deceased
+name`Crablante|gender`Male|status`Deceased|height`2.5m|city`Z|threat`Tiger
+name`Cleft-Chinned Kid|race`Human|status`Alive|city`Z|gender`Male
+name`Fukegao|race`Human|status`Deceased|city`D|gender`Male|occupation`Scientist
+name`Marugori|race`Mutant Human|gender`Male|status`Deceased|height`270m|city`D|threat`Dragon
+name`Subterranean King|race`Subterranean|gender`Male|status`Deceased|height`4m|threat`Demon
+name`Mosquito Girl|race`Mutant|gender`Female|status`Unknown|height`2.6m|threat`Demon
+name`Demon Cyborg|given_name`Genos|race`Human Cyborg|gender`Male|age`19|status`Alive|height`1.78m|city`Z|occupation`Hero
+name`Dr. Genus|race`Human|gender`Male|status`Alive|age`100|occupation`Scientist
+name`Kamakyuri|race`Mutant|gender`Male|status`Deceased|threat`Tiger
+name`Slugerous|race`Mutant|gender`Male|status`Deceased|threat`Tiger
+name`Frog Man|race`Mutant|gender`Male|status`Deceased|threat`Tiger
+name`Ground Dragon|race`Mutant|gender`Male|status`Deceased|threat`Tiger
+name`Armored Gorilla|race`Cyborg Mutant|gender`Male|status`Alive|threat`Demon|height`3.1m
+name`Beast King|race`Mutant|gender`Male|status`Deceased|threat`Demon|height`7m
+name`Piggie Bancon|race`Monster|gender`Male|status`Deceased|height`2.2m|city`Z|threat`Wolf
+name`Carnage Kabuto|race`Mutant|gender`Male|status`Deceased|height`3.5-8.5m|threat`Dragon
+name`Hammerhead|gender`Male|race`Human|height`2.15m|city`F|status`Alive
+name`Mumen Rider|gender`Male|race`Human|age`25|height`1.7m|occupation`Hero|city`Z|status`Alive
+name`Zeniru|gender`Male|race`Human|occupation`Millionaire|city`F|status`Alive
+name`Speed-o'-Sound Sonic|gender`Male|race`Human|age`25|occupation`Villain, Bodyguard|city`Z|status`Alive
+name`Personification of a Light Pull Cord|gender`Male|race`Monster|height`2.6m|threat`Tiger|city`Z|status`Deceased
+name`Sneck|gender`Male|race`Human|age`37|height`1.795m|occupation`Hero, Martial Artist|city`F|status`Alive
+name`Tank Top Tiger|gender`Male|race`Human|age`25|height`2.202m|occupation`Hero|status`Alive
+name`Golden Ball|gender`Male|race`Human|age`28|height`1.95m|occupation`Hero|status`Alive
+name`Spring Mustachio|gender`Male|race`Human|age`47|height`1.78m|occupation`Hero|status`Alive
+name`Watchdog Man|gender`Male|race`Human|occupation`Hero|city`Q|status`Alive
+name`Heavy Kong|gender`Male|race`Human|age`29|height`1.98m|occupation`Hero|city`W|status`Unkown
+name`Mushroom|race`Human|occupation`Hero|city`H|status`Alive
+name`Horse-Bone|gender`Male|occupation`Hero|city`H|status`Alive
+name`Lightning Genji|given_name`Genji|gender`Male|race`Human|age`24|height`1.65m|occupation`Hero|city`D|status`Alive
+name`Kombu Infinity|race`Monster|height`1.89m|threat`Tiger|city`Z|status`Alive
+name`170,000-Year Magicicada Nymph|race`Monster|age`170000|height`35m|threat`Demon|city`Z|status`Deceased
+name`Darkness Blade|gender`Male|race`Human|age`20|height`1.8m|occupation`Hero|city`Z|status`Alive
+name`Red Muffler|gender`Male|race`Human|age`20|height`1.68|occupation`Hero|status`Alive
+name`Grad School Graduate|gender`Male|race`Human|occupation`Hero|status`Alive
+name`170,000-Year Magicicada Adult|race`Monster|age`170000|height`135m|threat`Demon|city`Z|status`Deceased
+name`Sweet Mask|gender`Male|race`Human|age`24|height`1.81m|occupation`Hero, Model, Actor, Singer|status`Alive
+name`Glasses|gender`Male|race`Human|occupation`Hero|status`Alive
+name`Banero|gender`Male|race`Human|occupation`Villain|status`Alive
+name`Demonic Fan|race`Monster|height`1.7m|threat`Demon|city`Z|status`Deceased
+name`Hellish Blizzard|given_name`Fubuki|gender`Female|race`Human|age`23|height`1.67m|occupation`Hero|status`Alive
+name`Terrible Tornado|given_name`Tatsumaki|gender`Female|race`Human|age`28|height`N/A|occupation`Hero|status`Alive
+name`Silver Fang|given_name`Bang|gender`Male|race`Human|age`81|height`1.65m|occupation`Hero, Martial Arts Instructor|status`Alive
+name`Metal Knight|given_name`Bofoi|gender`Male|race`Human|occupation`Hero, Scientist|status`Alive
+name`Tank Top Black Hole|gender`Male|race`Human|age`28|height`2.133m|occupation`Hero|status`Alive
+name`Stinger|gender`Male|race`Human|age`24|height`1.84m|occupation`Hero|city`J|status`Alive
+name`Deep Sea King|gender`Male|race`Seafolk|height`4-20m|threat`Demon|status`Deceased
+name`Lightning Max|given_name`Max|gender`Male|race`Human|age`21|height`1.78m|occupation`Hero|status`Alive
+name`Puri-puri Prisoner|gender`Male|race`Human|age`33|height`2.2m|occupation`Hero|status`Alive

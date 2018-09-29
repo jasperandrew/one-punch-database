@@ -1,0 +1,35 @@
+{
+  "name": "one-punch-database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jasperandrew/one-punch-database.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasperandrew/one-punch-database/issues",
+    "start": "node ./src/index.js"
+  },
+  "homepage": "https://github.com/jasperandrew/one-punch-database#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "http-server": "^0.11.1",
+    "mysql2": "^1.6.1",
+    "pug-cli": "^1.0.0-alpha6",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "sass": "^1.14.1"
+  }
+}
