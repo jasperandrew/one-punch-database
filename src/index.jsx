@@ -33,18 +33,18 @@ api.use(bodyParser.json());
 /**
  * API functions
  */
-api.post('/add', (req, res) => {
-    connection.query(query, values, (error, results) => {
-        var msg = msg = fields.name + ' added to DB';
-        var status = 'Ok';
-        if(error){
-            msg = '[Error] while adding character to DB: ' + error;
-            status = 'Error';
-        }
-        console.log(msg);
-        return res.json({ status: status, msg: msg });
-    });
-});
+// api.post('/add', (req, res) => {
+//     connection.query(query, values, (error, results) => {
+//         var msg = msg = fields.name + ' added to DB';
+//         var status = 'Ok';
+//         if(error){
+//             msg = '[Error] while adding character to DB: ' + error;
+//             status = 'Error';
+//         }
+//         console.log(msg);
+//         return res.json({ status: status, msg: msg });
+//     });
+// });
 
 api.get('/get', (req, res) => {
     console.log('[GET] name=' + req.query.name);
